@@ -1,3 +1,60 @@
 [submodule "repos/Vundle.vim"]
 	path = repos/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "repos/SimpylFold"]
+	path = repos/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "repos/python-mode"]
+	path = repos/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "repos/jedi-vim"]
+	path = repos/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "repos/textile.vim"]
+	path = repos/textile.vim
+	url = https://github.com/timcharper/textile.vim.git
+[submodule "repos/vim-markdown"]
+	path = repos/vim-markdown
+	url = https://github.com/gmarik/vim-markdown.git
+[submodule "repos/gv.vim"]
+	path = repos/gv.vim
+	url = https://github.com/junegunn/gv.vim.git
+[submodule "repos/vim-fugitive"]
+	path = repos/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "repos/vim-git"]
+	path = repos/vim-git
+	url = https://github.com/tpope/vim-git.git
+[submodule "repos/vim-unimpaired"]
+	path = repos/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "repos/vim-surround"]
+	path = repos/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "repos/vim-repeat"]
+	path = repos/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "repos/lastpos.vim"]
+	path = repos/lastpos.vim
+	url = https://github.com/vim-scripts/lastpos.vim.git
+[submodule "repos/vim-easy-align"]
+	path = repos/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule "repos/file-line"]
+	path = repos/file-line
+	url = https://github.com/bogado/file-line.git
+[submodule "repos/gundo.vim"]
+	path = repos/gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "repos/splitjoin.vim"]
+	path = repos/splitjoin.vim
+	url = https://github.com/AndrewRadev/splitjoin.vim.git
+[submodule "repos/delimitMate"]
+	path = repos/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "repos/vim-easymotion"]
+	path = repos/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "repos/badwolf"]
+	path = repos/badwolf
+	url = https://github.com/sjl/badwolf.git
