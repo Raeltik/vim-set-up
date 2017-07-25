@@ -22,7 +22,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 
 " Templates {{{
-Plugin 'aperezdc/vim-template'
+" Plugin 'aperezdc/vim-template'
 " }}}
 
 " Programming {{{
